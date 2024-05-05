@@ -1,3 +1,6 @@
+
+![図1](https://github.com/KRproject-tech/Membrane_vibration_FDM/assets/114337358/32e49619-3b1f-4fd0-89d7-80b433c0129b)
+
 # Membrane_vibration_FDM
 Finite difference method (FDM) to solve the membrane vibration problem
 
