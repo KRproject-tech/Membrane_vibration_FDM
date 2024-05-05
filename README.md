@@ -24,6 +24,6 @@ The following ToolBoxes in “./cores/ToolBoxes/” are required,
 
 __For plotting results:__
 
-*	__“mpgwrite”__ by  David Foti:  
-https://jp.mathworks.com/matlabcentral/fileexchange/309-mpgwrite?s_tid=srchtitle
+*	__“mmwrite”__ by Micah Richert:
+https://jp.mathworks.com/matlabcentral/fileexchange/15881-mmwrite
 
