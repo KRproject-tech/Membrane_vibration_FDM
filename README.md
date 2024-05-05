@@ -35,3 +35,6 @@ __For plotting results:__
 
 https://jp.mathworks.com/matlabcentral/fileexchange/15881-mmwrite
 
+## Demonstration movie
+
+[![](https://img.youtube.com/vi/kEdkMvdkE4/0.jpg)](https://www.youtube.com/watch?v=_kEdkMvdkE4)
