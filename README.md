@@ -10,15 +10,10 @@ Finite difference method (FDM) to solve the membrane vibration problem
 
 ## Directory    
 <pre>
-└─Plate_FEM_explicit_3_SURFplot
-    ├─cores
-    │  ├─functions
-    │  ├─solver
-    │  └─ToolBoxes
-    │      ├─mntimes
-    │      └─Plate_Mesh
-    └─save
-        └─fig
+└─membrane_PDE
+    ├─save
+    │  └─fig
+    └─ToolBoxes
 </pre>
 
 
