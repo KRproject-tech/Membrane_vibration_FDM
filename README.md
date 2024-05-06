@@ -45,7 +45,7 @@ $$
 $$
 
 $$
-\mathrm{BC} : u(x,y,t) = 0, (x,y) \in ([0, L_x] \times \left\{0, L_y\right\}) (\left\{0, L_x\right\} \times [0, L_y]).
+\mathrm{BC} : u(x,y,t) = 0, (x,y) \in ([0, L_x] \times \left\{0, L_y \right\}) \cup (\left\{0, L_x \right\} \times [0, L_y]).
 $$
 
 
