@@ -38,6 +38,14 @@ __For plotting results:__
 
 https://jp.mathworks.com/matlabcentral/fileexchange/15881-mmwrite
 
+## Governing equation
+
+$$
+PDE: 
+$$
+
+
+
 ## Demonstration movie
 
 [![](https://img.youtube.com/vi/_kEdkMvdkE4/0.jpg)](https://www.youtube.com/watch?v=_kEdkMvdkE4)
