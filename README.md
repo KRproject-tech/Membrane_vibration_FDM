@@ -45,9 +45,12 @@ $$
 $$
 
 $$
-\mathrm{BC} : u(x,y,t) = 0, (x,y) \in ([0, L_x] \times \\{0, L_y \\}) \cup (\\{0, L_x \\} \times [0, L_y]).
+\mathrm{BC} : u(x,y,t) = 0, (x,y) \in ([0, L_x] \times \\{0, L_y \\}) \cup (\\{0, L_x \\} \times [0, L_y]),
 $$
 
+$$
+\mathrm{IC} : u(x,y,0) = \sin{\pi \frac{x}{L_x}}\sin{\pi \frac{y}{L_y}}.
+$$
 
 
 ## Demonstration movie
