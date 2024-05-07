@@ -41,11 +41,11 @@ https://jp.mathworks.com/matlabcentral/fileexchange/15881-mmwrite
 ## Governing equation
 
 $$
-\mathrm{PDE}: \partial^2_t u(x,y,t) - t_x \partial^2_x u(x,y,t) - t_y \partial^2_y u(x,y,t) = 0, 
+\mathrm{PDE}: \partial^2_t u(x,y,t) - t_x \partial^2_x u(x,y,t) - t_y \partial^2_y u(x,y,t) = 0, \ (x,y) \in ([0, L_x] \times [0, L_y]),
 $$
 
 $$
-\mathrm{BC} : u(x,y,t) = 0, (x,y) \in ([0, L_x] \times \\{0, L_y \\}) \cup (\\{0, L_x \\} \times [0, L_y]),
+\mathrm{BC} : u(x,y,t) = 0, \ (x,y) \in ([0, L_x] \times \\{0, L_y \\}) \cup (\\{0, L_x \\} \times [0, L_y]),
 $$
 
 $$
