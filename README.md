@@ -49,7 +49,7 @@ $$
 $$
 
 $$
-\mathrm{IC} : u(x,y,0) = \sin{\pi \frac{x}{L_x}}\sin{\pi \frac{y}{L_y}}.
+\mathrm{IC} : u(x,y,0) = \left( \sin{\pi \frac{x}{L_x}}\sin{\pi \frac{y}{L_y}} \right)^3.
 $$
 
 
